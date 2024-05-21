@@ -1,0 +1,249 @@
+package,category,description,link
+string,Text Processing Services,Common string operations,https://docs.python.org/3/library/string.html
+re,Text Processing Services,Regular expression operations,https://docs.python.org/3/library/re.html
+difflib,Text Processing Services,Helpers for computing deltas,https://docs.python.org/3/library/difflib.html
+textwrap,Text Processing Services,Text wrapping and filling,https://docs.python.org/3/library/textwrap.html
+unicodedata,Text Processing Services,Unicode Database,https://docs.python.org/3/library/unicodedata.html
+stringprep,Text Processing Services,Internet String Preparation,https://docs.python.org/3/library/stringprep.html
+readline,Text Processing Services,GNU readline interface,https://docs.python.org/3/library/readline.html
+rlcompleter,Text Processing Services,Completion function for GNU readline,https://docs.python.org/3/library/rlcompleter.html
+struct,Binary Data Services,Interpret bytes as packed binary data,https://docs.python.org/3/library/struct.html
+codecs,Binary Data Services,Codec registry and base classes,https://docs.python.org/3/library/codecs.html
+datetime,Data Types,Basic date and time types,https://docs.python.org/3/library/datetime.html
+zoneinfo,Data Types,IANA time zone support,https://docs.python.org/3/library/zoneinfo.html
+calendar,Data Types,General calendar-related functions,https://docs.python.org/3/library/calendar.html
+collections,Data Types,Container datatypes,https://docs.python.org/3/library/collections.html
+collections.abc,Data Types,Abstract Base Classes for Containers,https://docs.python.org/3/library/collections.abc.html
+heapq,Data Types,Heap queue algorithm,https://docs.python.org/3/library/heapq.html
+bisect,Data Types,Array bisection algorithm,https://docs.python.org/3/library/bisect.html
+array,Data Types,Efficient arrays of numeric values,https://docs.python.org/3/library/array.html
+weakref,Data Types,Weak references,https://docs.python.org/3/library/weakref.html
+types,Data Types,Dynamic type creation and names for built-in types,https://docs.python.org/3/library/types.html
+copy,Data Types,Shallow and deep copy operations,https://docs.python.org/3/library/copy.html
+pprint,Data Types,Data pretty printer,https://docs.python.org/3/library/pprint.html
+reprlib,Data Types,Alternate repr() implementation,https://docs.python.org/3/library/reprlib.html
+enum,Data Types,Support for enumerations,https://docs.python.org/3/library/enum.html
+graphlib,Data Types,Functionality to operate with graph-like structures,https://docs.python.org/3/library/graphlib.html
+numbers,Numeric and Mathematical Modules,Numeric abstract base classes,https://docs.python.org/3/library/numbers.html
+math,Numeric and Mathematical Modules,Mathematical functions,https://docs.python.org/3/library/math.html
+cmath,Numeric and Mathematical Modules,Mathematical functions for complex numbers,https://docs.python.org/3/library/cmath.html
+decimal,Numeric and Mathematical Modules,Decimal fixed point and floating point arithmetic,https://docs.python.org/3/library/decimal.html
+fractions,Numeric and Mathematical Modules,Rational numbers,https://docs.python.org/3/library/fractions.html
+random,Numeric and Mathematical Modules,Generate pseudo-random numbers,https://docs.python.org/3/library/random.html
+statistics,Numeric and Mathematical Modules,Mathematical statistics functions,https://docs.python.org/3/library/statistics.html
+itertools,Functional Programming Modules,Functions creating iterators for efficient looping,https://docs.python.org/3/library/itertools.html
+functools,Functional Programming Modules,Higher-order functions and operations on callable objects,https://docs.python.org/3/library/functools.html
+operator,Functional Programming Modules,Standard operators as functions,https://docs.python.org/3/library/operator.html
+pathlib,File and Directory Access,Object-oriented filesystem paths,https://docs.python.org/3/library/pathlib.html
+os.path,File and Directory Access,Common pathname manipulations,https://docs.python.org/3/library/os.path.html
+fileinput,File and Directory Access,Iterate over lines from multiple input streams,https://docs.python.org/3/library/fileinput.html
+stat,File and Directory Access,Interpreting stat() results,https://docs.python.org/3/library/stat.html
+filecmp,File and Directory Access,File and Directory Comparisons,https://docs.python.org/3/library/filecmp.html
+tempfile,File and Directory Access,Generate temporary files and directories,https://docs.python.org/3/library/tempfile.html
+glob,File and Directory Access,Unix style pathname pattern expansion,https://docs.python.org/3/library/glob.html
+fnmatch,File and Directory Access,Unix filename pattern matching,https://docs.python.org/3/library/fnmatch.html
+linecache,File and Directory Access,Random access to text lines,https://docs.python.org/3/library/linecache.html
+shutil,File and Directory Access,High-level file operations,https://docs.python.org/3/library/shutil.html
+pickle,Data Persistence,Python object serialization,https://docs.python.org/3/library/pickle.html
+copyreg,Data Persistence,Register pickle support functions,https://docs.python.org/3/library/copyreg.html
+shelve,Data Persistence,Python object persistence,https://docs.python.org/3/library/shelve.html
+marshal,Data Persistence,Internal Python object serialization,https://docs.python.org/3/library/marshal.html
+dbm,Data Persistence,Interfaces to Unix “databases”,https://docs.python.org/3/library/dbm.html
+sqlite3,Data Persistence,DB-API 2.0 interface for SQLite databases,https://docs.python.org/3/library/sqlite3.html
+zlib,Data Compression and Archiving,Compression compatible with gzip,https://docs.python.org/3/library/zlib.html
+gzip,Data Compression and Archiving,Support for gzip files,https://docs.python.org/3/library/gzip.html
+bz2,Data Compression and Archiving,Support for bzip2 compression,https://docs.python.org/3/library/bz2.html
+lzma,Data Compression and Archiving,Compression using the LZMA algorithm,https://docs.python.org/3/library/lzma.html
+zipfile,Data Compression and Archiving,Work with ZIP archives,https://docs.python.org/3/library/zipfile.html
+tarfile,Data Compression and Archiving,Read and write tar archive files,https://docs.python.org/3/library/tarfile.html
+csv,File Formats,CSV File Reading and Writing,https://docs.python.org/3/library/csv.html
+configparser,File Formats,Configuration file parser,https://docs.python.org/3/library/configparser.html
+tomllib,File Formats,Parse TOML files,https://docs.python.org/3/library/tomllib.html
+netrc,File Formats,netrc file processing,https://docs.python.org/3/library/netrc.html
+plistlib,File Formats,Generate and parse Apple .plist files,https://docs.python.org/3/library/plistlib.html
+hashlib,Cryptographic Services,Secure hashes and message digests,https://docs.python.org/3/library/hashlib.html
+hmac,Cryptographic Services,Keyed-Hashing for Message Authentication,https://docs.python.org/3/library/hmac.html
+secrets,Cryptographic Services,Generate secure random numbers for managing secrets,https://docs.python.org/3/library/secrets.html
+os,Generic Operating System Services,Miscellaneous operating system interfaces,https://docs.python.org/3/library/os.html
+io,Generic Operating System Services,Core tools for working with streams,https://docs.python.org/3/library/io.html
+time,Generic Operating System Services,Time access and conversions,https://docs.python.org/3/library/time.html
+argparse,Generic Operating System Services,"Parser for command-line options, arguments and sub-commands",https://docs.python.org/3/library/argparse.html
+getopt,Generic Operating System Services,C-style parser for command line options,https://docs.python.org/3/library/getopt.html
+logging,Generic Operating System Services,Logging facility for Python,https://docs.python.org/3/library/logging.html
+logging.config,Generic Operating System Services,Logging configuration,https://docs.python.org/3/library/logging.config.html
+logging.handlers,Generic Operating System Services,Logging handlers,https://docs.python.org/3/library/logging.handlers.html
+getpass,Generic Operating System Services,Portable password input,https://docs.python.org/3/library/getpass.html
+curses,Generic Operating System Services,Terminal handling for character-cell displays,https://docs.python.org/3/library/curses.html
+curses.textpad,Generic Operating System Services,Text input widget for curses programs,https://docs.python.org/3/library/curses.html#module-curses.textpad
+curses.ascii,Generic Operating System Services,Utilities for ASCII characters,https://docs.python.org/3/library/curses.ascii.html
+curses.panel,Generic Operating System Services,A panel stack extension for curses,https://docs.python.org/3/library/curses.panel.html
+platform,Generic Operating System Services,Access to underlying platform’s identifying data,https://docs.python.org/3/library/platform.html
+errno,Generic Operating System Services,Standard errno system symbols,https://docs.python.org/3/library/errno.html
+ctypes,Generic Operating System Services,A foreign function library for Python,https://docs.python.org/3/library/ctypes.html
+threading,Concurrent Execution,Thread-based parallelism,https://docs.python.org/3/library/threading.html
+multiprocessing,Concurrent Execution,Process-based parallelism,https://docs.python.org/3/library/multiprocessing.html
+multiprocessing.shared_memory,Concurrent Execution,Shared memory for direct access across processes,https://docs.python.org/3/library/multiprocessing.shared_memory.html
+concurrent.futures,The concurrent package,Launching parallel tasks,https://docs.python.org/3/library/concurrent.futures.html
+concurrent,The concurrent package,Launching parallel tasks,https://docs.python.org/3/library/concurrent.futures.html
+subprocess,The concurrent package,Subprocess management,https://docs.python.org/3/library/subprocess.html
+sched,The concurrent package,Event scheduler,https://docs.python.org/3/library/sched.html
+queue,The concurrent package,A synchronized queue class,https://docs.python.org/3/library/queue.html
+contextvars,The concurrent package,Context Variables,https://docs.python.org/3/library/contextvars.html
+_thread,The concurrent package,Low-level threading API,https://docs.python.org/3/library/_thread.html
+asyncio,Networking and Interprocess Communication,Asynchronous I/O,https://docs.python.org/3/library/asyncio.html
+socket,Networking and Interprocess Communication,Low-level networking interface,https://docs.python.org/3/library/socket.html
+ssl,Networking and Interprocess Communication,TLS/SSL wrapper for socket objects,https://docs.python.org/3/library/ssl.html
+select,Networking and Interprocess Communication,Waiting for I/O completion,https://docs.python.org/3/library/select.html
+selectors,Networking and Interprocess Communication,High-level I/O multiplexing,https://docs.python.org/3/library/selectors.html
+signal,Networking and Interprocess Communication,Set handlers for asynchronous events,https://docs.python.org/3/library/signal.html
+mmap,Networking and Interprocess Communication,Memory-mapped file support,https://docs.python.org/3/library/mmap.html
+email,Internet Data Handling,An email and MIME handling package,https://docs.python.org/3/library/email.html
+json,Internet Data Handling,JSON encoder and decoder,https://docs.python.org/3/library/json.html
+mailbox,Internet Data Handling,Manipulate mailboxes in various formats,https://docs.python.org/3/library/mailbox.html
+mimetypes,Internet Data Handling,Map filenames to MIME types,https://docs.python.org/3/library/mimetypes.html
+base64,Internet Data Handling,"Base16, Base32, Base64, Base85 Data Encodings",https://docs.python.org/3/library/base64.html
+binascii,Internet Data Handling,Convert between binary and ASCII,https://docs.python.org/3/library/binascii.html
+quopri,Internet Data Handling,Encode and decode MIME quoted-printable data,https://docs.python.org/3/library/quopri.html
+html,Structured Markup Processing Tools,HyperText Markup Language support,https://docs.python.org/3/library/html.html
+html.parser,Structured Markup Processing Tools,Simple HTML and XHTML parser,https://docs.python.org/3/library/html.parser.html
+html.entities,Structured Markup Processing Tools,Definitions of HTML general entities,https://docs.python.org/3/library/html.entities.html
+xml.etree.ElementTree,XML Processing Modules,The ElementTree XML API,https://docs.python.org/3/library/xml.etree.elementtree.html
+xml.dom,XML Processing Modules,The Document Object Model API,https://docs.python.org/3/library/xml.dom.html
+xml.dom.minidom,XML Processing Modules,Minimal DOM implementation,https://docs.python.org/3/library/xml.dom.minidom.html
+xml.dom.pulldom,XML Processing Modules,Support for building partial DOM trees,https://docs.python.org/3/library/xml.dom.pulldom.html
+xml.sax,XML Processing Modules,Support for SAX2 parsers,https://docs.python.org/3/library/xml.sax.html
+xml.sax.handler,XML Processing Modules,Base classes for SAX handlers,https://docs.python.org/3/library/xml.sax.handler.html
+xml.sax.saxutils,XML Processing Modules,SAX Utilities,https://docs.python.org/3/library/xml.sax.utils.html
+xml.sax.xmlreader,XML Processing Modules,Interface for XML parsers,https://docs.python.org/3/library/xml.sax.reader.html
+xml.parsers.expat,XML Processing Modules,Fast XML parsing using Expat,https://docs.python.org/3/library/pyexpat.html
+webbrowser,Internet Protocols and Support,Convenient web-browser controller,https://docs.python.org/3/library/webbrowser.html
+wsgiref,Internet Protocols and Support,WSGI Utilities and Reference Implementation,https://docs.python.org/3/library/wsgiref.html
+urllib,Internet Protocols and Support,URL handling modules,https://docs.python.org/3/library/urllib.html
+urllib.request,Internet Protocols and Support,Extensible library for opening URLs,https://docs.python.org/3/library/urllib.request.html
+urllib.response,Internet Protocols and Support,Response classes used by urllib,https://docs.python.org/3/library/urllib.request.html#module-urllib.response
+urllib.parse,Internet Protocols and Support,Parse URLs into components,https://docs.python.org/3/library/urllib.parse.html
+urllib.error,Internet Protocols and Support,Exception classes raised by urllib.request,https://docs.python.org/3/library/urllib.error.html
+urllib.robotparser,Internet Protocols and Support,Parser for robots.txt,https://docs.python.org/3/library/urllib.robotparser.html
+http,Internet Protocols and Support,HTTP modules,https://docs.python.org/3/library/http.html
+http.client,Internet Protocols and Support,HTTP protocol client,https://docs.python.org/3/library/http.client.html
+ftplib,Internet Protocols and Support,FTP protocol client,https://docs.python.org/3/library/ftplib.html
+poplib,Internet Protocols and Support,POP3 protocol client,https://docs.python.org/3/library/poplib.html
+imaplib,Internet Protocols and Support,IMAP4 protocol client,https://docs.python.org/3/library/imaplib.html
+smtplib,Internet Protocols and Support,SMTP protocol client,https://docs.python.org/3/library/smtplib.html
+uuid,Internet Protocols and Support,UUID objects according to RFC 4122,https://docs.python.org/3/library/uuid.html
+socketserver,Internet Protocols and Support,A framework for network servers,https://docs.python.org/3/library/socketserver.html
+http.server,Internet Protocols and Support,HTTP servers,https://docs.python.org/3/library/http.server.html
+http.cookies,Internet Protocols and Support,HTTP state management,https://docs.python.org/3/library/http.cookies.html
+http.cookiejar,Internet Protocols and Support,Cookie handling for HTTP clients,https://docs.python.org/3/library/http.cookiejar.html
+xmlrpc,Internet Protocols and Support,XMLRPC server and client modules,https://docs.python.org/3/library/xmlrpc.html
+xmlrpc.client,Internet Protocols and Support,XML-RPC client access,https://docs.python.org/3/library/xmlrpc.client.html
+xmlrpc.server,Internet Protocols and Support,Basic XML-RPC servers,https://docs.python.org/3/library/xmlrpc.server.html
+ipaddress,Internet Protocols and Support,IPv4/IPv6 manipulation library,https://docs.python.org/3/library/ipaddress.html
+wave,Multimedia Services,Read and write WAV files,https://docs.python.org/3/library/wave.html
+colorsys,Multimedia Services,Conversions between color systems,https://docs.python.org/3/library/colorsys.html
+gettext,Internationalization,Multilingual internationalization services,https://docs.python.org/3/library/gettext.html
+locale,Internationalization,Internationalization services,https://docs.python.org/3/library/locale.html
+turtle,Program Frameworks,Turtle graphics,https://docs.python.org/3/library/turtle.html
+cmd,Program Frameworks,Support for line-oriented command interpreters,https://docs.python.org/3/library/cmd.html
+shlex,Program Frameworks,Simple lexical analysis,https://docs.python.org/3/library/shlex.html
+tkinter,Graphical User Interfaces with Tk,Python interface to Tcl/Tk,https://docs.python.org/3/library/tkinter.html
+tkinter.colorchooser,Graphical User Interfaces with Tk,Color choosing dialog,https://docs.python.org/3/library/tkinter.colorchooser.html
+tkinter.font,Graphical User Interfaces with Tk,Tkinter font wrapper,https://docs.python.org/3/library/tkinter.font.html
+tkinter.messagebox,Graphical User Interfaces with Tk,Tkinter message prompts,https://docs.python.org/3/library/tkinter.messagebox.html
+tkinter.scrolledtext,Graphical User Interfaces with Tk,Scrolled Text Widget,https://docs.python.org/3/library/tkinter.scrolledtext.html
+tkinter.dnd,Graphical User Interfaces with Tk,Drag and drop support,https://docs.python.org/3/library/tkinter.dnd.html
+tkinter.ttk,Graphical User Interfaces with Tk,Tk themed widgets,https://docs.python.org/3/library/tkinter.ttk.html
+tkinter.tix,Graphical User Interfaces with Tk,Extension widgets for Tk,https://docs.python.org/3/library/tkinter.tix.html
+typing,Development Tools,Support for type hints,https://docs.python.org/3/library/typing.html
+pydoc,Development Tools,Documentation generator and online help system,https://docs.python.org/3/library/pydoc.html
+doctest,Development Tools,Test interactive Python examples,https://docs.python.org/3/library/doctest.html
+unittest,Development Tools,Unit testing framework,https://docs.python.org/3/library/unittest.html
+unittest.mock,Development Tools,mock object library,https://docs.python.org/3/library/unittest.mock.html
+unittest.mock,Development Tools,getting started,https://docs.python.org/3/library/unittest.mock-examples.html
+2to3,Development Tools,Automated Python 2 to 3 code translation,https://docs.python.org/3/library/2to3.html
+test,Development Tools,Regression tests package for Python,https://docs.python.org/3/library/test.html
+test.support,Development Tools,Utilities for the Python test suite,https://docs.python.org/3/library/test.html#module-test.support
+test.support.socket_helper,Development Tools,Utilities for socket tests,https://docs.python.org/3/library/test.html#module-test.support.socket_helper
+test.support.script_helper,Development Tools,Utilities for the Python execution tests,https://docs.python.org/3/library/test.html#module-test.support.script_helper
+test.support.bytecode_helper,Development Tools,Support tools for testing correct bytecode generation,https://docs.python.org/3/library/test.html#module-test.support.bytecode_helper
+test.support.threading_helper,Development Tools,Utilities for threading tests,https://docs.python.org/3/library/test.html#module-test.support.threading_helper
+test.support.os_helper,Development Tools,Utilities for os tests,https://docs.python.org/3/library/test.html#module-test.support.os_helper
+test.support.import_helper,Development Tools,Utilities for import tests,https://docs.python.org/3/library/test.html#module-test.support.import_helper
+test.support.warnings_helper,Development Tools,Utilities for warnings tests,https://docs.python.org/3/library/test.html#module-test.support.warnings_helper
+bdb,Debugging and Profiling,Debugger framework,https://docs.python.org/3/library/bdb.html
+faulthandler,Debugging and Profiling,Dump the Python traceback,https://docs.python.org/3/library/faulthandler.html
+pdb,Debugging and Profiling,The Python Debugger,https://docs.python.org/3/library/pdb.html
+timeit,Debugging and Profiling,Measure execution time of small code snippets,https://docs.python.org/3/library/timeit.html
+trace,Debugging and Profiling,Trace or track Python statement execution,https://docs.python.org/3/library/trace.html
+tracemalloc,Debugging and Profiling,Trace memory allocations,https://docs.python.org/3/library/tracemalloc.html
+ensurepip,Software Packaging and Distribution,Bootstrapping the pip installer,https://docs.python.org/3/library/ensurepip.html
+venv,Software Packaging and Distribution,Creation of virtual environments,https://docs.python.org/3/library/venv.html
+zipapp,Software Packaging and Distribution,Manage executable Python zip archives,https://docs.python.org/3/library/zipapp.html
+sys,Python Runtime Services,System-specific parameters and functions,https://docs.python.org/3/library/sys.html
+sys.monitoring,Python Runtime Services,Execution event monitoring,https://docs.python.org/3/library/sys.monitoring.html
+sysconfig,Python Runtime Services,Provide access to Python’s configuration information,https://docs.python.org/3/library/sysconfig.html
+builtins,Python Runtime Services,Built-in objects,https://docs.python.org/3/library/builtins.html
+__main__,Python Runtime Services,Top-level code environment,https://docs.python.org/3/library/__main__.html
+warnings,Python Runtime Services,Warning control,https://docs.python.org/3/library/warnings.html
+dataclasses,Python Runtime Services,Data Classes,https://docs.python.org/3/library/dataclasses.html
+contextlib,Python Runtime Services,Utilities for with-statement contexts,https://docs.python.org/3/library/contextlib.html
+abc,Python Runtime Services,Abstract Base Classes,https://docs.python.org/3/library/abc.html
+atexit,Python Runtime Services,Exit handlers,https://docs.python.org/3/library/atexit.html
+traceback,Python Runtime Services,Print or retrieve a stack traceback,https://docs.python.org/3/library/traceback.html
+__future__,Python Runtime Services,Future statement definitions,https://docs.python.org/3/library/__future__.html
+gc,Python Runtime Services,Garbage Collector interface,https://docs.python.org/3/library/gc.html
+inspect,Python Runtime Services,Inspect live objects,https://docs.python.org/3/library/inspect.html
+site,Python Runtime Services,Site-specific configuration hook,https://docs.python.org/3/library/site.html
+code,Custom Python Interpreters,Interpreter base classes,https://docs.python.org/3/library/code.html
+codeop,Custom Python Interpreters,Compile Python code,https://docs.python.org/3/library/codeop.html
+zipimport,Importing Modules,Import modules from Zip archives,https://docs.python.org/3/library/zipimport.html
+pkgutil,Importing Modules,Package extension utility,https://docs.python.org/3/library/pkgutil.html
+modulefinder,Importing Modules,Find modules used by a script,https://docs.python.org/3/library/modulefinder.html
+runpy,Importing Modules,Locating and executing Python modules,https://docs.python.org/3/library/runpy.html
+importlib,Importing Modules,The implementation of import,https://docs.python.org/3/library/importlib.html
+importlib.resources,Importing Modules,"Package resource reading, opening and access",https://docs.python.org/3/library/importlib.resources.html
+importlib.resources.abc,Importing Modules,Abstract base classes for resources,https://docs.python.org/3/library/importlib.resources.abc.html
+importlib.metadata,Importing Modules,Accessing package metadata,https://docs.python.org/3/library/importlib.metadata.html
+ast,Python Language Services,Abstract Syntax Trees,https://docs.python.org/3/library/ast.html
+symtable,Python Language Services,Access to the compiler’s symbol tables,https://docs.python.org/3/library/symtable.html
+token,Python Language Services,Constants used with Python parse trees,https://docs.python.org/3/library/token.html
+keyword,Python Language Services,Testing for Python keywords,https://docs.python.org/3/library/keyword.html
+tokenize,Python Language Services,Tokenizer for Python source,https://docs.python.org/3/library/tokenize.html
+tabnanny,Python Language Services,Detection of ambiguous indentation,https://docs.python.org/3/library/tabnanny.html
+pyclbr,Python Language Services,Python module browser support,https://docs.python.org/3/library/pyclbr.html
+py_compile,Python Language Services,Compile Python source files,https://docs.python.org/3/library/py_compile.html
+compileall,Python Language Services,Byte-compile Python libraries,https://docs.python.org/3/library/compileall.html
+dis,Python Language Services,Disassembler for Python bytecode,https://docs.python.org/3/library/dis.html
+pickletools,Python Language Services,Tools for pickle developers,https://docs.python.org/3/library/pickletools.html
+msvcrt,MS Windows Specific Services,Useful routines from the MS VC++ runtime,https://docs.python.org/3/library/msvcrt.html
+winreg,MS Windows Specific Services,Windows registry access,https://docs.python.org/3/library/winreg.html
+winsound,MS Windows Specific Services,Sound-playing interface for Windows,https://docs.python.org/3/library/winsound.html
+posix,Unix Specific Services,The most common POSIX system calls,https://docs.python.org/3/library/posix.html
+pwd,Unix Specific Services,The password database,https://docs.python.org/3/library/pwd.html
+grp,Unix Specific Services,The group database,https://docs.python.org/3/library/grp.html
+termios,Unix Specific Services,POSIX style tty control,https://docs.python.org/3/library/termios.html
+tty,Unix Specific Services,Terminal control functions,https://docs.python.org/3/library/tty.html
+pty,Unix Specific Services,Pseudo-terminal utilities,https://docs.python.org/3/library/pty.html
+fcntl,Unix Specific Services,The fcntl and ioctl system calls,https://docs.python.org/3/library/fcntl.html
+resource,Unix Specific Services,Resource usage information,https://docs.python.org/3/library/resource.html
+syslog,Unix Specific Services,Unix syslog library routines,https://docs.python.org/3/library/syslog.html
+aifc,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Read and write AIFF and AIFC files,https://docs.python.org/3/library/aifc.html
+audioop,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Manipulate raw audio data,https://docs.python.org/3/library/audioop.html
+cgi,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Common Gateway Interface support,https://docs.python.org/3/library/cgi.html
+cgitb,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Traceback manager for CGI scripts,https://docs.python.org/3/library/cgitb.html
+chunk,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Read IFF chunked data,https://docs.python.org/3/library/chunk.html
+crypt,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Function to check Unix passwords,https://docs.python.org/3/library/crypt.html
+imghdr,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Determine the type of an image,https://docs.python.org/3/library/imghdr.html
+mailcap,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Mailcap file handling,https://docs.python.org/3/library/mailcap.html
+msilib,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Read and write Microsoft Installer files,https://docs.python.org/3/library/msilib.html
+nis,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Interface to Sun’s NIS (Yellow Pages),https://docs.python.org/3/library/nis.html
+nntplib,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,NNTP protocol client,https://docs.python.org/3/library/nntplib.html
+optparse,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Parser for command line options,https://docs.python.org/3/library/optparse.html
+ossaudiodev,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Access to OSS-compatible audio devices,https://docs.python.org/3/library/ossaudiodev.html
+pipes,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Interface to shell pipelines,https://docs.python.org/3/library/pipes.html
+sndhdr,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Determine type of sound file,https://docs.python.org/3/library/sndhdr.html
+spwd,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,The shadow password database,https://docs.python.org/3/library/spwd.html
+sunau,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Read and write Sun AU files,https://docs.python.org/3/library/sunau.html
+telnetlib,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Telnet client,https://docs.python.org/3/library/telnetlib.html
+uu,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Encode and decode uuencode files,https://docs.python.org/3/library/uu.html
+xdrlib,Deprecated and only kept for backwards compatibility. They have been superseded by other modules.,Encode and decode XDR data,https://docs.python.org/3/library/xdrlib.html
